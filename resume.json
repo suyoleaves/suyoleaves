@@ -35,7 +35,7 @@
     "awardList": [
         {
             "award_info": "英语 CET6",
-            "award_time": "2024"
+            "award_time": "2015"
         }
     ],
     "workExpList": [
@@ -47,17 +47,27 @@
                 "2022.09"
             ],
             "work_desc": "负责渗透测试项目的实施工作，包括WEB站点渗透测试、APP应用安全测试、安全培训等。",
-            "dataIndex": 0
+            "dataIndex": 1
+        },
+        {
+            "work_time": [
+                "2023.06",
+                "2023.12"
+            ],
+            "company_name": "北京长亭科技有限公司",
+            "department_name": "产品研发部",
+            "work_desc": "负责安全产品的研发工作，参与了日志模块，登录认证模块的产品迭代开发和定制开发。",
+            "dataIndex": 1
         },
         {
             "company_name": "北京知其安科技有限公司",
             "department_name": "技术服务部",
             "work_time": [
-                "2023.06",
+                "2023.12",
                 "2024.06"
             ],
             "work_desc": "售后技术支持工程师。主要负责安全有效性验证项目的产品部署、验证、报告编写等工作。",
-            "dataIndex": 1
+            "dataIndex": 2
         }
     ],
     "skillList": [
