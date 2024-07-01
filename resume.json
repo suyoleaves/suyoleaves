@@ -47,118 +47,17 @@
                 "2022.09"
             ],
             "work_desc": "负责渗透测试项目的实施工作，包括WEB站点渗透测试、APP应用安全测试、安全培训等。",
-            "dataIndex": 1
+            "dataIndex": 0
         },
         {
             "company_name": "北京知其安科技有限公司",
             "department_name": "技术服务部",
             "work_time": [
                 "2023.06",
-                "至今"
+                "2024.06"
             ],
             "work_desc": "售后技术支持工程师。主要负责安全有效性验证项目的产品部署、验证、报告编写等工作。",
-            "dataIndex": 2
-        }
-    ],
-    "skillList": [
-
-    ],
-    "projectList": [
-        {
-            "project_name": "北京农商银行",
-            "project_role": "售后实施",
-            "project_time": "2023.12 - 2024.1",
-            "project_desc": "北京农商银行安全有效性验证项目，独立负责了该项目的部署、测试、汇报工作",
-            "project_content": "1. 负责了全程北农商行的BAS设备部署工作\n2. 根据沟通好的实施方案进行有效性验证测试，协助客户共发现WAF、HIDS等设备因配置问题引起的5处失效点。\n3. 测试过程中发现产品BUG和待优化项共2处，及时向研发测提出了需求并推动修复。",
-            "dataIndex": 0
-        },
-        {
-            "project_name": "民生银行信用卡中心",
-            "project_role": "售后实施",
-            "project_time": "2024.1-2024.3",
-            "project_desc": "北京农商银行信用卡中心有效性验证，独立负责了该项目的月度服务实施项目。",
-            "project_content": "1. 负责民生卡中心有效性验证的月度服务实施，主要负责产品巡检、升级和验证测试工作。\n2. 测试过程中共协助客户排查失效点5处，包括HIDS、终端等。",
             "dataIndex": 1
-        },
-        {
-            "project_name": "爱奇艺",
-            "project_role": "售前测试",
-            "project_time": "2024.4-2024.6",
-            "project_desc": "爱奇艺售前项目PoC测试，在该项目中独立负责了产品部署、测试、报告编写、汇报等工作。",
-            "project_content": "1. 根据沟通好的实施方案进行有效性验证测试，共发现因配置项引起的失效点共2处。\n2. 整理测试结果并进行汇报，并根据客户提出的问题做出相应的解答。对无法解答的问题主动拉通后场资源进行支撑，保证客户满意度和成单率。",
-            "dataIndex": 2
-        }
-    ],
-    "workList": [
-
-    ],
-    "aboutme": {
-        "aboutme_desc": "5年的网络安全学习经验，1年网络安全行业工作经验，持有NISP II证书，熟悉各类常见Web漏洞和修复方式，对安全运营有一定的理解，并具备一定的Python和Golang开发能力。熟悉Linux系统运维，尤其是对Docker环境相关的运维。"
-    },
-    "theme": {
-        "color": "#2f5785",
-        "tagColor": "#8bc34a"
-    }
-}{
-    "titleNameMap": {
-        "educationList": "教育背景",
-        "workExpList": "工作经历",
-        "projectList": "项目经验",
-        "skillList": "个人技能",
-        "awardList": "更多信息",
-        "workList": "个人作品",
-        "aboutme": "个人评价"
-    },
-    "avatar": {
-        "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
-        "hidden": true
-    },
-    "profile": {
-        "name": "程思翰",
-        "email": "fishfond@163.com",
-        "mobile": "17664160226",
-        "github": "",
-        "zhihu": "",
-        "workExpYear": ""
-    },
-    "educationList": [
-        {
-            "edu_time": [
-                "2020.09.01",
-                "2024.06.25"
-            ],
-            "school": "齐鲁师范学院",
-            "major": "物联网工程（本科）",
-            "academic_degree": "本科",
-            "dataIndex": 0
-        }
-    ],
-    "awardList": [
-        {
-            "award_info": "英语 CET6",
-            "award_time": "2024"
-        }
-    ],
-    "workExpList": [
-        {
-            "company_name": "绿盟科技股份有限公司",
-            "department_name": "工程交付部",
-            "work_time": [
-                "2022.06",
-                "2022.09"
-            ],
-            "work_desc": "负责渗透测试项目的实施工作，包括WEB站点渗透测试、APP应用安全测试、安全培训等。",
-            "dataIndex": 1
-        },
-        {
-            "company_name": "北京知其安科技有限公司",
-            "department_name": "技术服务部",
-            "work_time": [
-                "2023.06",
-                "至今"
-            ],
-            "work_desc": "售后技术支持工程师。主要负责安全有效性验证项目的产品部署、验证、报告编写等工作。",
-            "dataIndex": 2
         }
     ],
     "skillList": [
